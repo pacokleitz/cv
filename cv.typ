@@ -26,17 +26,15 @@ kpaco\@proton.me |
 #link("https://kpaco.dev")[kpaco.dev] |
 #link("https://linkedin.com/in/pacokleitz")[linkedin.com/in/pacokleitz]
 
-A passionate  software engineer specializing in DevOps and MLOps, dedicated to driving innovation and efficiency in the realms of Machine Learning and Cloud Infrastructure.
+A passionate  software engineer specializing in DevOps and MLOps, dedicated to driving innovation and efficiency in the realms of Cloud Infrastructure and Machine Learning.
 
 == Work Experience
 #chiline()
 
 #link("https://kili-technology.com")[*Kili Technology*] #h(1fr) 09/2023 -- Present \
 DevOps Engineer #h(1fr) Remote / Paris, France \
-- #lorem(12)
-- #lorem(12)
-- #lorem(12)
-- #lorem(12)
+- Implemented cost-saving measures such as spot instances and automated shutdowns for dev environments, enhancing infrastructure efficiency.
+- Collaborated with clients to customize and deploy Kili's data labeling solution on-premise.
 
 #link("https://troops.fr")[*Troops*] #h(1fr) 09/2022 -- 09/2023 \
 Cloud DevOps Engineer #h(1fr) Remote / Lyon, France \
