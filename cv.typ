@@ -26,36 +26,45 @@ kpaco\@proton.me |
 #link("https://kpaco.dev")[kpaco.dev] |
 #link("https://linkedin.com/in/pacokleitz")[linkedin.com/in/pacokleitz]
 
-A passionate  software engineer specializing in DevOps and MLOps, dedicated to driving innovation and efficiency in the realms of Cloud Infrastructure and Machine Learning.
+A passionate software engineer specializing in DevOps and Site Reliability Engineering, dedicated to driving innovation and efficiency in the realms of Cloud Infrastructure, Software and Machine Learning.
 
 == Work Experience
 #chiline()
 
 #link("https://kili-technology.com")[*Kili Technology*] #h(1fr) 09/2023 -- Present \
-DevOps Engineer #h(1fr) Remote / Paris, France \
-- Implemented cost-saving measures such as spot instances and automated shutdowns for dev environments, enhancing infrastructure efficiency.
-- Collaborated with clients to customize and deploy Kili's data labeling solution on-premise.
+DevOps/SRE Engineer #h(1fr) Remote / Paris, France \
+- Implemented cost-saving measures on cloud infrastructure for both GCP and Azure, leading to a 60% reduction in expenses.
+- Worked closely with clients to facilitate the on-premise deployment of Kili's data labeling solution.
+- Oversaw the configuration and deployment of essential tools required by developers.
+- Implemented monitoring jobs to track the expiration of various critical resources.
 
 #link("https://troops.fr")[*Troops*] #h(1fr) 09/2022 -- 09/2023 \
 Cloud DevOps Engineer #h(1fr) Remote / Lyon, France \
-- Led critical upgrades and maintenance of EKS cluster components, ensuring system performance and security.
+- Led upgrades and maintenance of Kubernetes (EKS) cluster components, ensuring system performance and security.
 - Expanded observability with Datadog monitoring, facilitating proactive issue resolution.
 - Strengthened Kubernetes cluster security with Kyverno policies and vulnerability scans.
-- Streamlined operations through efficient CI/CD processes and established comprehensive disaster recovery strategies.
+- Streamlined operations through efficient CI/CD processes and established disaster recovery strategies.
 
 #link("https://ircad.fr")[*IRCAD*] #h(1fr) 09/2021 -- 09/2022 \
 Machine Learning Engineer #h(1fr) Strasbourg, France \
 - Spearheaded the development of a web platform for evaluating the performance of machine learning models.
 - Pioneered experiments involving semi-synthetic dataset generation.
 - Led the training and benchmarking efforts for a range of computer vision models.
-- Facilitated the seamless integration of multiple machine learning models into a unified web service.
+- Facilitated the integration of multiple machine learning models into a unified web service.
+
+== Skills
+#chiline()
+*DevOps:* Kubernetes, Terraform, Ansible, Docker, AWS, GCP, Azure, Datadog, CI/CD, ArgoCD, Nginx, Postgres, Git, Linux \
+*Programming:* Go, Python, Rust, TypeScript, Bash, C, SQL \
+*Areas:* Distributed Systems, Back-End Development, Machine Learning, AI, Blockchain \
+*Languages*: French, English, German
 
 == Education
 #chiline()
 
 *University of Strasbourg* #h(1fr) 2021 -- 2023 \
 Master of Software Science and Engineering #h(1fr) Strasbourg, France \
-- distributed systems, large-scale data processing, formal methods, advanced algorithms, compilers, software architecture, advanced programming, research (blockchain consensus), cybersecurity…
+- distributed systems, large-scale data processing, formal methods, advanced algorithms, compilers, software architecture, advanced programming, research (blockchain consensus), cybersecurity...
 
 *University of Strasbourg* #h(1fr) 2018 -- 2021 \
 Bachelor of Computer Science #h(1fr) Strasbourg, France \
@@ -70,10 +79,3 @@ Self-hostable platform for evaluating machine learning models performance. \
 - Implemented asynchronous submission processing using the cutting-edge NATS JetStream technology.
 - Simplified deployment with user-friendly configuration files, facilitating self-hosted setups via Docker-compose or Helm, promoting accessibility and ease of adoption.
 - Effortlessly integrates with popular open-source ML ecosystem tools (ex: MLflow Model Registry and DVC) for enhanced functionality.
-
-== Skills
-#chiline()
-*DevOps:* Kubernetes, Terraform, Ansible, Docker, AWS, Datadog, CI/CD, ArgoCD, Nginx, Postgres, Git, Linux \
-*Programming:* Go, Python, Rust, C, TypeScript, SQL, Bash \
-*Expertise:* Distributed Systems, Back-End Development, Machine Learning, AI, Blockchain \
-*Languages*: French, English, German
