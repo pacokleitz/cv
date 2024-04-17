@@ -26,7 +26,7 @@ kpaco\@proton.me |
 #link("https://kpaco.dev")[kpaco.dev] |
 #link("https://linkedin.com/in/pacokleitz")[linkedin.com/in/pacokleitz]
 
-A passionate software engineer specializing in DevOps and Site Reliability Engineering, dedicated to driving innovation and efficiency in the realms of Cloud Infrastructure, Software and Machine Learning.
+Software engineer specializing in DevOps and Site Reliability Engineering, dedicated to driving efficiency and reliability in the realms of Cloud Infrastructure, Software and Machine Learning.
 
 == Work Experience
 #chiline()
@@ -39,25 +39,19 @@ DevOps/SRE Engineer #h(1fr) Remote / Paris, France \
 - Implemented monitoring jobs to track the expiration of various critical resources.
 
 #link("https://troops.fr")[*Troops*] #h(1fr) 09/2022 -- 09/2023 \
-Cloud DevOps Engineer #h(1fr) Remote / Lyon, France \
+DevOps/SRE Engineer #h(1fr) Remote / Lyon, France \
 - Led upgrades and maintenance of Kubernetes (EKS) cluster components, ensuring system performance and security.
 - Expanded observability with Datadog monitoring, facilitating proactive issue resolution.
 - Strengthened Kubernetes cluster security with Kyverno policies and vulnerability scans.
-- Streamlined operations through efficient CI/CD processes and established disaster recovery strategies.
+- Streamlined operations through efficient CI/CD processes.
+- Established a disaster recovery strategy for all AWS resources.
 
 #link("https://ircad.fr")[*IRCAD*] #h(1fr) 09/2021 -- 09/2022 \
-Machine Learning Engineer #h(1fr) Strasbourg, France \
+Software Engineer #h(1fr) Strasbourg, France \
 - Spearheaded the development of a web platform for evaluating the performance of machine learning models.
 - Pioneered experiments involving semi-synthetic dataset generation.
 - Led the training and benchmarking efforts for a range of computer vision models.
 - Facilitated the integration of multiple machine learning models into a unified web service.
-
-== Skills
-#chiline()
-*DevOps:* Kubernetes, Terraform, Ansible, Docker, AWS, GCP, Azure, Datadog, CI/CD, ArgoCD, Nginx, Postgres, Git, Linux \
-*Programming:* Go, Python, Rust, TypeScript, Bash, C, SQL \
-*Areas:* Distributed Systems, Back-End Development, Machine Learning, AI, Blockchain \
-*Languages*: French, English, German
 
 == Education
 #chiline()
@@ -70,12 +64,9 @@ Master of Software Science and Engineering #h(1fr) Strasbourg, France \
 Bachelor of Computer Science #h(1fr) Strasbourg, France \
 - algorithms and data structures, cryptography, parallel programming, functional programming, logic programming, local networks, network algorithms, artificial intelligence, analysis, linear algebra...
 
-== Projects
+== Skills
 #chiline()
-
-*Modelboard* #h(1fr) 08/2023 -- Present \
-Self-hostable platform for evaluating machine learning models performance. \
-- Designed a modular framework enabling seamless integration of customizable model evaluation scripts, efficiently executed by dedicated evaluation workers.
-- Implemented asynchronous submission processing using the cutting-edge NATS JetStream technology.
-- Simplified deployment with user-friendly configuration files, facilitating self-hosted setups via Docker-compose or Helm, promoting accessibility and ease of adoption.
-- Effortlessly integrates with popular open-source ML ecosystem tools (ex: MLflow Model Registry and DVC) for enhanced functionality.
+*DevOps:* Kubernetes, Terraform, Ansible, Docker, AWS, GCP, Azure, Datadog, CI/CD, ArgoCD, Nginx, Postgres, Git, Linux \
+*Programming:* Go, Python, Rust, TypeScript, Bash, C, SQL \
+*Areas:* Distributed Systems, Back-End Development, Machine Learning, AI, Blockchain \
+*Languages*: French, English, German
