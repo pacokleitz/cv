@@ -81,4 +81,4 @@ Bachelor of Computer Science #h(1fr) \
 
 - French: Native proficiency
 - English: Fluent (Professionally)
-- German: Proficient (Bilingual school education from ages 4 to 14)
+- German: Proficient (Bilingual school education)
