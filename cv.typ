@@ -26,25 +26,27 @@ kpaco\@proton.me |
 #link("https://kpaco.dev")[kpaco.dev] |
 #link("https://linkedin.com/in/pacokleitz")[linkedin.com/in/pacokleitz]
 
-Software engineer specializing in DevOps and Site Reliability Engineering, dedicated to driving efficiency and reliability in the realms of Cloud Infrastructure, Software and Machine Learning.
+
+Polyvalent software engineer specializing in DevOps and Site Reliability Engineering. Committed to optimizing efficiency and bolstering reliability across Cloud Infrastructure, Software, and Machine Learning domains. Skilled in implementing scalable solutions and automation to enhance system performance.
+
 
 == Work Experience
 #chiline()
 
 #link("https://kili-technology.com")[*Kili Technology*] #h(1fr) 09/2023 -- Present \
 DevOps/SRE Engineer #h(1fr) Remote / Paris, France \
-- Implemented cost-saving measures on cloud infrastructure for both GCP and Azure, leading to a 60% reduction in expenses.
-- Worked closely with clients to facilitate the on-premise deployment of Kili's data labeling solution.
-- Oversaw the configuration and deployment of key infrastructure components.
-- Created monitoring jobs and alerts to track critical resource expiration, enhancing system reliability.
+- Reduced GCP and Azure cloud infrastructure expenses by 60% through implementation of cost-saving measures.
+- Collaborated with clients to facilitate on-premise deployment of Kili's data labeling solution.
+- Orchestrated configuration and deployment of key infrastructure components.
+- Implemented monitoring jobs and alerts to track critical resource expiration, enhancing system reliability.
 
 #link("https://troops.fr")[*Troops*] #h(1fr) 09/2022 -- 09/2023 \
 DevOps/SRE Engineer #h(1fr) Remote / Lyon, France \
 - Led upgrades and maintenance of Kubernetes (EKS) cluster components, ensuring system performance and security.
-- Expanded observability with Datadog monitoring, facilitating proactive issue resolution.
+- Expanded observability with Datadog monitoring, enabling proactive issue resolution.
 - Strengthened Kubernetes cluster security with Kyverno policies and vulnerability scans.
 - Streamlined operations through efficient CI/CD processes.
-- Established a disaster recovery strategy for all AWS resources.
+- Established disaster recovery strategy for all AWS resources.
 
 #link("https://ircad.fr")[*IRCAD*] #h(1fr) 09/2021 -- 09/2022 \
 Software Engineer #h(1fr) Strasbourg, France \
