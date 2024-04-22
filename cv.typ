@@ -1,7 +1,5 @@
 #show heading: set text(font: "Linux Biolinum")
 
-#show link: underline
-
 // Uncomment the following lines to adjust the size of text
 // The recommend resume text size is from `10pt` to `12pt`
 // #set text(
@@ -76,7 +74,7 @@ Bachelor of Computer Science #h(1fr) \
 == Certifications
 #chiline()
 
-- Certified Kubernetes Administrator (CKA)
+- #link("https://www.credly.com/badges/f63dc989-0b2d-4a0f-9d08-96ebdcd5a316")[Certified Kubernetes Administrator (CKA)]
 
 == Languages
 #chiline()
