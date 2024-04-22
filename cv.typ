@@ -35,8 +35,8 @@ Software engineer specializing in DevOps and Site Reliability Engineering, dedic
 DevOps/SRE Engineer #h(1fr) Remote / Paris, France \
 - Implemented cost-saving measures on cloud infrastructure for both GCP and Azure, leading to a 60% reduction in expenses.
 - Worked closely with clients to facilitate the on-premise deployment of Kili's data labeling solution.
-- Oversaw the configuration and deployment of essential tools required by developers.
-- Implemented monitoring jobs to track the expiration of various critical resources.
+- Oversaw the configuration and deployment of key infrastructure components.
+- Created monitoring jobs and alerts to track critical resource expiration, enhancing system reliability.
 
 #link("https://troops.fr")[*Troops*] #h(1fr) 09/2022 -- 09/2023 \
 DevOps/SRE Engineer #h(1fr) Remote / Lyon, France \
@@ -56,17 +56,29 @@ Software Engineer #h(1fr) Strasbourg, France \
 == Education
 #chiline()
 
-*University of Strasbourg* #h(1fr) 2021 -- 2023 \
-Master of Software Science and Engineering #h(1fr) Strasbourg, France \
-- distributed systems, large-scale data processing, formal methods, advanced algorithms, compilers, software architecture, advanced programming, research (blockchain consensus), cybersecurity...
+*University of Strasbourg* #h(1fr) \
+Master of Software Science and Engineering #h(1fr) \
+- Specialized in distributed systems, large-scale data processing, formal methods, advanced algorithms, compilers, software architecture, advanced programming, cybersecurity, and research in blockchain consensus.
 
-*University of Strasbourg* #h(1fr) 2018 -- 2021 \
-Bachelor of Computer Science #h(1fr) Strasbourg, France \
-- algorithms and data structures, cryptography, parallel programming, functional programming, logic programming, local networks, network algorithms, artificial intelligence, analysis, linear algebra...
+*University of Strasbourg* #h(1fr) \
+Bachelor of Computer Science #h(1fr) \
+- Studied algorithms and data structures, cryptography, parallel programming, functional programming, logic programming, local networks, network algorithms, artificial intelligence, analysis, and linear algebra.
 
 == Skills
 #chiline()
+
 *DevOps:* Kubernetes, Terraform, Ansible, Docker, AWS, GCP, Azure, Datadog, CI/CD, ArgoCD, Nginx, Postgres, Git, Linux \
 *Programming:* Go, Python, Rust, TypeScript, Bash, C, SQL \
-*Areas:* Distributed Systems, Back-End Development, Machine Learning, AI, Blockchain \
-*Languages*: French, English, German
+*Areas:* Distributed Systems, Back-End Development, Machine Learning, AI, Blockchain
+
+== Certifications
+#chiline()
+
+- Certified Kubernetes Administrator (CKA)
+
+== Languages
+#chiline()
+
+- French: Native proficiency
+- English: Fluent (Professionally)
+- German: Proficient (Bilingual school education from ages 4 to 14)
