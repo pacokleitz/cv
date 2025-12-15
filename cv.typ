@@ -52,8 +52,8 @@ Tech Stack → Kubernetes, AWS, Terraform, Ansible, CircleCI, NodeJS, Datadog
 #link("https://ircad.fr")[*IRCAD*] #h(1fr) 09/2021 -- 09/2022 \
 Surgical Data Science R&D Software Engineer #h(1fr) Strasbourg, France \
 Tech Stack → On-Premise VMs, Python, SLURM, GitLab CI/CD, Ansible
-- Led development of a web platform for evaluating ML model performance in surgical computer vision applications.
-- Trained, benchmarked, and compared multiple computer vision models (YOLO,DETR,UNET...).
+- Led development of a web platform for evaluating ML model performance in medical computer vision applications.
+- Trained, benchmarked, and compared computer vision models (YOLO, DETR, UNET) for surgical instrument detection.
 - Designed and deployed a GPU-enabled Python inference service unifying multiple model formats (ONNX, TorchScript).
 
 == Education
