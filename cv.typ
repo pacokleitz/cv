@@ -24,50 +24,51 @@ kpaco\@proton.me |
 #link("https://kpaco.dev")[kpaco.dev] |
 #link("https://linkedin.com/in/pacokleitz")[linkedin.com/in/pacokleitz]
 
-
-Polyvalent software engineer specializing in DevOps and Site Reliability Engineering. Committed to optimizing efficiency and bolstering reliability across Cloud Infrastructure, Software, and Machine Learning domains. Skilled in implementing scalable solutions and automation to enhance system performance.
-
+DevOps/SRE Engineer specializing in Kubernetes and multi-cloud infrastructure. 3+ years optimizing cloud costs, security, reliability, and deployment operations for fast-growing startups.
 
 == Work Experience
 #chiline()
 
 #link("https://kili-technology.com")[*Kili Technology*] #h(1fr) 09/2023 -- Present \
 DevOps/SRE Engineer #h(1fr) Remote / Paris, France \
-- Reduced GCP and Azure cloud infrastructure expenses by 60% through implementation of cost-saving measures.
-- Collaborated with clients to facilitate on-premise deployment of Kili's data labeling solution.
-- Orchestrated configuration and deployment of key infrastructure components.
-- Implemented monitoring jobs and alerts to track critical resource expiration, enhancing system reliability.
+Tech Stack → Kubernetes, GCP, Azure, Terraform, Ansible, GitLab CI/CD, Python, NodeJS, Datadog
+- Cut GCP and Azure cloud costs by 50% through resource optimization and automated scaling strategies.
+- Partnered with enterprise customers to design and deploy private on-premise installations of Kili's data labeling platform, adapting infrastructure for strict security requirements including air-gapped environments.
+- Owned vulnerability management across all services, supporting successful ISO 27001 and SOC 2 compliance audits.
+
+#link("https://www.deepip.ai")[*DeepIP*] #h(1fr) 09/2023 -- 04/2025 \
+DevOps/SRE Engineer #h(1fr) Remote / Paris, France \
+Tech Stack → Kubernetes, Azure, Terraform, Ansible, GitLab CI/CD, Python, Datadog
+- Scaled cloud infrastructure and new services from proof of concept to Series A (\~\$15M funding).
+- Managed Azure OpenAI model deployments and infrastructure automation using Terraform.
 
 #link("https://troops.fr")[*Troops*] #h(1fr) 09/2022 -- 09/2023 \
 DevOps/SRE Engineer #h(1fr) Remote / Lyon, France \
-- Led upgrades and maintenance of Kubernetes (EKS) cluster components, ensuring system performance and security.
-- Expanded observability with Datadog monitoring, enabling proactive issue resolution.
-- Strengthened Kubernetes cluster security with Kyverno policies and vulnerability scans.
-- Streamlined operations through efficient CI/CD processes.
-- Established disaster recovery strategy for all AWS resources.
+Tech Stack → Kubernetes, AWS, Terraform, Ansible, CircleCI, NodeJS, Datadog
+- Led Kubernetes cluster components upgrades and maintained AWS cloud infrastructure through infrastructure-as-code.
+- Expanded observability and monitoring coverage by deploying Datadog synthetic monitoring across critical services.
+- Strengthened Kubernetes security with Kyverno policy enforcement and automated vulnerability scanning.
 
 #link("https://ircad.fr")[*IRCAD*] #h(1fr) 09/2021 -- 09/2022 \
-Software Engineer #h(1fr) Strasbourg, France \
-- Spearheaded the development of a web platform for evaluating the performance of machine learning models.
-- Pioneered experiments involving semi-synthetic dataset generation.
-- Led the training and benchmarking efforts for a range of computer vision models.
-- Facilitated the integration of multiple machine learning models into a unified web service.
+Surgical Data Science R&D Software Engineer #h(1fr) Strasbourg, France \
+Tech Stack → On-Premise VMs, Python, SLURM, GitLab CI/CD, Ansible
+- Led development of a web platform for evaluating ML model performance in surgical computer vision applications.
+- Trained, benchmarked, and compared multiple computer vision models (YOLO,DETR,UNET...).
+- Designed and deployed a GPU-enabled Python inference service unifying multiple model formats (ONNX, TorchScript).
 
 == Education
 #chiline()
 
 *University of Strasbourg* #h(1fr) \
 Master of Software Science and Engineering #h(1fr) \
-- Specialized in distributed systems, large-scale data processing, formal methods, advanced algorithms, compilers, software architecture, advanced programming, cybersecurity, and research in blockchain consensus.
 
 *University of Strasbourg* #h(1fr) \
 Bachelor of Computer Science #h(1fr) \
-- Studied algorithms and data structures, cryptography, parallel programming, functional programming, logic programming, local networks, network algorithms, artificial intelligence, analysis, and linear algebra.
 
 == Skills
 #chiline()
 
-*DevOps:* Kubernetes, Terraform, Ansible, Docker, AWS, GCP, Azure, Datadog, CI/CD, ArgoCD, Nginx, Postgres, Git, Linux \
+*DevOps:* Kubernetes, GCP, Terraform, Docker, AWS, Azure, Ansible, Datadog, CI/CD, ArgoCD, Nginx, Postgres, Git, Linux \
 *Programming:* Go, Python, Rust, TypeScript, Bash, C, SQL \
 *Areas:* Distributed Systems, Back-End Development, Machine Learning, AI, Blockchain
 
