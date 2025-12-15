@@ -29,28 +29,28 @@ DevOps/SRE Engineer specializing in Kubernetes and multi-cloud infrastructure. 3
 == Work Experience
 #chiline()
 
-#link("https://kili-technology.com")[*Kili Technology*] #h(1fr) 09/2023 -- Present \
-DevOps/SRE Engineer #h(1fr) Remote / Paris, France \
+*DevOps/SRE Engineer* #h(1fr) 09/2023 -- Present \
+#link("https://kili-technology.com")[\@Kili Technology] #h(1fr) Remote / Paris, France \
 Tech Stack → Kubernetes, GCP, Azure, Terraform, Ansible, GitLab CI/CD, Python, NodeJS, Datadog
 - Cut GCP and Azure cloud costs by 50% through resource optimization and automated scaling strategies.
 - Partnered with enterprise customers to design and deploy private on-premise installations of Kili's data labeling platform, adapting infrastructure for strict security requirements including air-gapped environments.
 - Owned vulnerability management across all services, supporting successful ISO 27001 and SOC 2 compliance audits.
 
-#link("https://www.deepip.ai")[*DeepIP*] #h(1fr) 09/2023 -- 04/2025 \
-DevOps/SRE Engineer #h(1fr) Remote / Paris, France \
+*DevOps/SRE Engineer* #h(1fr) 09/2023 -- 04/2025 \
+#link("https://www.deepip.ai")[\@DeepIP] #h(1fr) Remote / Paris, France \
 Tech Stack → Kubernetes, Azure, Terraform, Ansible, GitLab CI/CD, Python, Datadog
 - Scaled cloud infrastructure and new services from proof of concept to Series A (\~\$15M funding).
 - Managed Azure OpenAI model deployments and infrastructure automation using Terraform.
 
-#link("https://troops.fr")[*Troops*] #h(1fr) 09/2022 -- 09/2023 \
-DevOps/SRE Engineer #h(1fr) Remote / Lyon, France \
+*DevOps/SRE Engineer* #h(1fr) 09/2022 -- 09/2023 \
+#link("https://troops.fr")[\@Troops] #h(1fr) Remote / Lyon, France \
 Tech Stack → Kubernetes, AWS, Terraform, Ansible, CircleCI, NodeJS, Datadog
 - Led Kubernetes cluster components upgrades and maintained AWS cloud infrastructure through infrastructure-as-code.
 - Expanded observability and monitoring coverage by deploying Datadog synthetic monitoring across critical services.
 - Strengthened Kubernetes security with Kyverno policy enforcement and automated vulnerability scanning.
 
-#link("https://ircad.fr")[*IRCAD*] #h(1fr) 09/2021 -- 09/2022 \
-Surgical Data Science R&D Software Engineer #h(1fr) Strasbourg, France \
+*Surgical Data Science R&D Software Engineer* #h(1fr) 09/2021 -- 09/2022 \
+#link("https://ircad.fr")[\@IRCAD] #h(1fr) Strasbourg, France \
 Tech Stack → On-Premise VMs, Python, SLURM, GitLab CI/CD, Ansible
 - Led development of a web platform for evaluating ML model performance in medical computer vision applications.
 - Trained, benchmarked, and compared computer vision models (YOLO, DETR, UNET) for surgical instrument detection.
