@@ -17,7 +17,7 @@ jobs:
           source_file: cv.typ
 
       - name: Upload PDF file
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: CV
           path: cv.pdf
